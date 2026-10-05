@@ -92,15 +92,14 @@ Possible barriers are drawn from published evidence (e.g. Cancer Research UK), n
 ```
 ├── README.md
 ├── notebook/
-│   └── Breast_Cancer_Screening_Inequalities.ipynb   # full analysis
+│   └── breast_cancer_screening_inequalities.ipynb   # full analysis
 ├── charts/
 │   ├── national.png
 │   ├── local.png
 │   └── priority.png
 ├── presentation/
-│   └── Breast-Screening-Inequalities-Presentation.pptx
-└── brief/
-    └── Project-Brief.docx
+│   └── breast-screening-inequalities-presentation.pptx
+
 ```
 
 ## Sources
