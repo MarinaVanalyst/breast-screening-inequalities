@@ -9,7 +9,7 @@ A health-equity analysis of NHS breast screening coverage, with a local focus on
 
 ---
 
-## The question
+## The business question
 
 Breast screening saves lives by catching cancer early, but does it reach everyone equally? This project uses open national data to ask:
 
